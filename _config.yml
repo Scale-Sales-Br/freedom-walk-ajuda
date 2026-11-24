@@ -1,0 +1,9 @@
+title: Freedom Walk · Ajuda
+description: Tudo sobre o Freedom Walk, o assistente da Freedom Church no WhatsApp e no app.
+lang: pt-BR
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
